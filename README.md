@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Eduardo, td bem? <strong>Growdever em desenvolvimento.</strong>.<br>
-  Estudando desenvolvimento Web, busco minha primeira oportunidade na área.
+  Olá, meu nome é <strong>Eduardo</strong>td bem?<br>
+  Cursando os primeiros módulos do Programa Start Web Dev Full Stack Growdev.
+  
 </p>
 
 <p align="left">
