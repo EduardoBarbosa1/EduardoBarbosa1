@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Eduardo, td bem? <strong>Me contrata.</strong>.<br>
+  Olá, meu nome é Eduardo, td bem? <strong>Growdever em desenvolvimento.</strong>.<br>
   Estudando desenvolvimento Web, busco minha primeira oportunidade na área.
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>HTML CSS e aquele Javascript.</strong>
+  💻 Linguagens: <strong>HTML CSS e Javascript.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Codenatico.</strong>
+  💼 Ferramentas: <strong>Visual Studio Code.</strong>
 </p>
 
 <p align="left">
