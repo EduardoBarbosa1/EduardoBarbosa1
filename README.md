@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  ✅ On on: ⤵️
+  ✅ On: ⤵️
 </p>
 
 <p align="left">
